@@ -1,0 +1,1 @@
+	tweak_data.medic = { radius = 999999, cooldown = 0 } -- :D
